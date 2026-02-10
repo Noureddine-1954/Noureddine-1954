@@ -1,79 +1,64 @@
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=FFD700&height=220&section=header&text=NOUREDDINE%20EL%20MOUTAOUAKKIL&fontSize=50&fontColor=000000&animation=fadeIn&fontAlignY=35" width="100%"/>
-</div>
+<h1 align="center">Noureddine El Moutaouakkil</h1>
+<h3 align="center">Student Developer — C & Python</h3>
 
-<div align="center">
-  
-  # ⚡ System Online: Cadet / Engineering Student ⚡
-
-  ### 🟡 Student @ [ENSA Khouribga] & [1337 / 42 Network] 🟡
-  
-  <p>
-    <em>Building the bridge between Software Engineering and Algorithm Optimization.</em>
-  </p>
-
-  <a href="mailto:noureddineelmoutaouakkil1954@gmail.com">
-    <img src="https://img.shields.io/badge/Email_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white&color=000000&labelColor=FFD700" />
-  </a>
-  <a href="https://linkedin.com/in/noureddine-el-moutaouakkil-0683b6364">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&color=000000&labelColor=FFD700" />
-  </a>
-
-</div>
+<p align="center">
+ENSA Khouribga (2nd year) • 1337 Khouribga student<br>
+Currently focused on programming fundamentals and algorithms
+</p>
 
 ---
 
-### 🏆 About Me
+## About
 
-I am currently navigating a **dual curriculum**, combining the formal engineering training of **ENSA** with the peer-to-peer, intensive coding methodology of **1337 (42 Network)**.
+I’m a student learning low-level programming and problem solving through C and Python projects.  
+Most of my work is practice-oriented and focused on understanding data structures, parsing, and algorithm behavior.
 
-- 🔸 **Academic Focus:** Linear Algebra, Signal Analysis, C Programming.
-- 🔸 **Current Goal:** Mastering low-level algorithms and preparing for full-scale software projects.
-- 🔸 **Future Plans:** Developing high-performance software and exploring Game Development.
-
----
-
-### 🌟 The Arsenal (Tech Stack)
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/C_Language-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white&color=black&labelColor=FFD700" />
-<img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54&color=black&labelColor=FFD700" />
-<img src="https://img.shields.io/badge/MATLAB-%23D14836.svg?style=for-the-badge&logo=mathworks&logoColor=white&color=black&labelColor=FFD700" />
-
-<br/>
-
-<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black&color=black&labelColor=FFD700" />
-<img src="https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white&color=black&labelColor=FFD700" />
-<img src="https://img.shields.io/badge/Shell_Script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white&color=black&labelColor=FFD700" />
-
-</div>
+I use Git and Linux daily and build small terminal-based tools and exercises while improving code structure and correctness.
 
 ---
 
-### ⚜️ Academic Highlights
+## Current Stack
 
-Since I am focused on my studies, my current code repositories are dedicated to mastering computer science fundamentals.
+<p>
+<img src="https://img.shields.io/badge/C-000000?style=for-the-badge&logo=c&logoColor=gold"/>
+<img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=gold"/>
+<img src="https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=gold"/>
+<img src="https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=gold"/>
+<img src="https://img.shields.io/badge/Bash-000000?style=for-the-badge&logo=gnubash&logoColor=gold"/>
+</p>
 
-| Project / Subject | Description | Stack |
-| :--- | :--- | :--- |
-| **Push_swap (1337)** | A highly optimized data sorting algorithm project. Focuses on stack manipulation and algorithmic efficiency (complexity). | `C` `Algorithms` |
-| **Image Processing** | Academic exploration of image manipulation techniques and matrix operations. | `Python` `Matrices` |
-
----
-
-### 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Noureddine-1954&show_icons=true&theme=buefy&title_color=DAA520&icon_color=FFD700&text_color=ffffff&bg_color=0d1117&hide_border=true" height="160" alt="Stats" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Noureddine-1954&layout=compact&theme=buefy&title_color=DAA520&icon_color=FFD700&text_color=ffffff&bg_color=0d1117&hide_border=true" height="160" alt="Languages" />
-
-</div>
+### Learning Next
+- C++
+- GDScript
+- More advanced data structures
+- Algorithm optimization techniques
 
 ---
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=FFD700&height=100&section=footer&animation=fadeIn" width="100%"/>
-</div>
+## What I Work On
+
+Most repositories are exercises or small systems built to practice:
+
+- maze generation and solving
+- stack and sorting logic
+- config parsing and validation
+- terminal ASCII visualization
+- structured CLI programs
+
+You’ll mainly see learning projects and experiments rather than finished products.
+
+---
+
+## GitHub Activity
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Noureddine-1954&show_icons=true&theme=dark&title_color=FFD700&icon_color=FFD700)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Noureddine-1954&layout=compact&theme=dark&title_color=FFD700)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=Noureddine-1954&theme=dark&ring=FFD700&fire=FFD700&currStreakLabel=FFD700)
+
+---
+
+## Current Goal
+
+Build stronger foundations in Python and algorithms
