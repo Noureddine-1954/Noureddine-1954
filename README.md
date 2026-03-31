@@ -60,11 +60,3 @@
 ---
 
 ## ⭐ Top Projects
-
-<p>
-  Pin your best repositories on your GitHub profile to show them here.
-</p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:111111,100:FFD700&height=120&section=footer&text=&fontColor=FFD700" alt="footer"/>
-</p>
