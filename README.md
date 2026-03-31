@@ -1,102 +1,78 @@
 <h1 align="center">Noureddine El Moutaouakkil</h1>
-<h3 align="center">C & Python Student Developer — Systems & Algorithms Focus</h3>
-
 <p align="center">
-ENSA Khouribga — 2nd Year • 1337 Khouribga Student<br>
-Low-level programming • Algorithmic problem solving • Systems mindset
+  <b>Systems-minded student developer</b> • <b>C</b> • <b>Python</b> • <b>Linux</b>
+  <br/>
+  <sub>Dark Grey × Gold theme • Algorithms • Low-level programming • CLI tools</sub>
 </p>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:111111,100:FFD700&height=140&section=header&text=&fontColor=FFD700" alt="banner"/>
+</p>
+---
+
+## 🟡 About
+
+- 🎓 Engineering student (ENSA Khouribga) • 1337 Khouribga student
+- 🧠 Interested in **systems programming**, **algorithms**, and **robust parsing/validation**
+- 🛠 I enjoy building terminal/CLI tools with a focus on correctness and clean structure
 
 ---
 
-## 🟡 Profile Summary
-
-Motivated engineering student focused on **C programming, Python tools, and algorithmic problem solving**.  
-I build logic-driven terminal projects, parsing systems, and data-structure based solutions with emphasis on correctness and structure.
-
-Currently strengthening foundations in:
-- Systems programming
-- Data structures & algorithms
-- Parsing & validation
-- CLI tools and terminal visualization
-
-Actively expanding into **C++ and GDScript**.
-
----
-
-## 🛠 Core Technologies
+## 🛠 Tech Stack (Dark Grey × Gold)
 
 <p>
-<img src="https://img.shields.io/badge/C-000000?style=for-the-badge&logo=c&logoColor=gold"/>
-<img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=gold"/>
-<img src="https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=gold"/>
-<img src="https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=gold"/>
-<img src="https://img.shields.io/badge/Bash-000000?style=for-the-badge&logo=gnubash&logoColor=gold"/>
+  <img src="https://img.shields.io/badge/C-111111?style=for-the-badge&logo=c&logoColor=FFD700"/>
+  <img src="https://img.shields.io/badge/Python-111111?style=for-the-badge&logo=python&logoColor=FFD700"/>
+  <img src="https://img.shields.io/badge/MATLAB-111111?style=for-the-badge&logo=mathworks&logoColor=FFD700"/>
+  <img src="https://img.shields.io/badge/Bash-111111?style=for-the-badge&logo=gnubash&logoColor=FFD700"/>
+  <img src="https://img.shields.io/badge/Linux-111111?style=for-the-badge&logo=linux&logoColor=FFD700"/>
+  <img src="https://img.shields.io/badge/Git-111111?style=for-the-badge&logo=git&logoColor=FFD700"/>
 </p>
 
-### 📚 Currently Learning
-- C++
-- GDScript
-- Advanced algorithm optimization
-- Systems design patterns
+### 📚 Learning Next
+
+<p>
+  <img src="https://img.shields.io/badge/Java-111111?style=for-the-badge&logo=openjdk&logoColor=FFD700"/>
+  <img src="https://img.shields.io/badge/C++-111111?style=for-the-badge&logo=c%2B%2B&logoColor=FFD700"/>
+  <img src="https://img.shields.io/badge/GDScript-111111?style=for-the-badge&logo=godot-engine&logoColor=FFD700"/>
+</p>
 
 ---
 
-## 🚧 Active Development Areas
+## ⚙️ What I Focus On
 
-### Maze & Grid Systems
-- Config-driven maze generators
-- Deterministic seed generation
-- Path-finding solvers
-- ASCII + color rendering engines
-
-### Stack & Sorting Algorithms
-- Stack-based sorting strategies
-- Index-driven selection logic
-- Operation cost reduction experiments
-
-### Parsing & Validation Tools
-- Strict config parsers
-- Coordinate and format validators
-- Error-safe input systems
-
-### Terminal Visualization
-- ASCII rendering systems
-- Symbol & color layering
-- Dynamic markers (start/goal/path)
+- ✅ Correctness before optimization
+- 🔍 Explicit logic over hidden behavior
+- 🧩 Clean, modular functions
+- 🧱 Strong input validation
+- ♻️ Deterministic output when possible
 
 ---
 
-## ⚙️ Engineering Approach
+## 📊 GitHub Stats
 
-- Correctness before optimization  
-- Explicit logic over hidden behavior  
-- Deterministic output when possible  
-- Strong input validation  
-- Clean, modular functions  
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Noureddine-1954&show_icons=true&hide_title=true&rank_icon=github&bg_color=111111&title_color=FFD700&text_color=E6E6E6&icon_color=FFD700&ring_color=FFD700" alt="stats"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Noureddine-1954&layout=compact&bg_color=111111&title_color=FFD700&text_color=E6E6E6" alt="top-langs"/>
+</p>
 
----
-
-## 📊 GitHub Activity
-
-### Contribution Streak
-![GitHub Streak](https://streak-stats.demolab.com?user=Noureddine-1954&theme=dark&ring=FFD700&fire=FFD700&currStreakLabel=FFD700)
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Noureddine-1954&theme=dark&background=111111&ring=FFD700&fire=FFD700&currStreakLabel=FFD700" alt="streak"/>
+</p>
 
 ---
 
-## 🟡 Current Focus (2026)
+## 🧩 Problem Solving
 
-- Advanced C projects  
-- Advanced Python projects  
-- Basic C++ projects  
-- Basic GDScript projects  
-- Learn more effecient algorithms
-- Systems-style program design  
-- Robust parsing frameworks  
-- Structured CLI tools  
+- LeetCode: **(add your link here)**
 
 ---
 
-## 📫 Contact
+## ⭐ Top Projects
 
-Open to internships, collaboration, and technical discussions.
+<p>
+  Pin your best repositories on your GitHub profile to show them here.
+</p>
 
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:111111,100:FFD700&height=120&section=footer&text=&fontColor=FFD700" alt="footer"/>
+</p>
