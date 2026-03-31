@@ -42,10 +42,6 @@
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img height="165" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Noureddine-1954&show_icons=true&hide_title=true&rank_icon=github&bg_color=111111&title_color=FFD700&text_color=E6E6E6&icon_color=FFD700&ring_color=FFD700" alt="stats"/>
-  <img height="165" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Noureddine-1954&layout=compact&bg_color=111111&title_color=FFD700&text_color=E6E6E6" alt="top-langs"/>
-</p>
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=Noureddine-1954&theme=dark&background=111111&ring=FFD700&fire=FFD700&currStreakLabel=FFD700" alt="streak"/>
