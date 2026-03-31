@@ -1,23 +1,24 @@
 <h1 align="center">Noureddine El Moutaouakkil</h1>
 <p align="center">
-  <b>Systems-minded student developer</b> • <b>C</b> • <b>Python</b> • <b>Linux</b>
+  <b>Student developer</b> • <b>C</b> • <b>Python</b> • <b>Linux</b>
   <br/>
-  <sub>Dark Grey × Gold theme • Algorithms • Low-level programming • CLI tools</sub>
+  <sub> • Algorithms • Low-level programming • CLI tools</sub>
 </p>
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:111111,100:FFD700&height=140&section=header&text=&fontColor=FFD700" alt="banner"/>
 </p>
+
 ---
 
 ## 🟡 About
 
 - 🎓 Engineering student (ENSA Khouribga) • 1337 Khouribga student
-- 🧠 Interested in **systems programming**, **algorithms**, and **robust parsing/validation**
-- 🛠 I enjoy building terminal/CLI tools with a focus on correctness and clean structure
+- 🧠 Interested in **systems programming** and **algorithms**
+- 🛠 I enjoy building terminal/CLI tools and programs
 
 ---
 
-## 🛠 Tech Stack (Dark Grey × Gold)
+## 🛠 Tech Stack
 
 <p>
   <img src="https://img.shields.io/badge/C-111111?style=for-the-badge&logo=c&logoColor=FFD700"/>
@@ -36,15 +37,6 @@
   <img src="https://img.shields.io/badge/GDScript-111111?style=for-the-badge&logo=godot-engine&logoColor=FFD700"/>
 </p>
 
----
-
-## ⚙️ What I Focus On
-
-- ✅ Correctness before optimization
-- 🔍 Explicit logic over hidden behavior
-- 🧩 Clean, modular functions
-- 🧱 Strong input validation
-- ♻️ Deterministic output when possible
 
 ---
 
@@ -63,7 +55,7 @@
 
 ## 🧩 Problem Solving
 
-- LeetCode: **(add your link here)**
+- LeetCode: [**Tahyati**](https://leetcode.com/u/Tahyati/)
 
 ---
 
